@@ -39,6 +39,6 @@ namespace introOOP
                 isHungery = false;
             }
             Console.WriteLine("Is the cat hungery?");
-        }
+            }
     }
 }
