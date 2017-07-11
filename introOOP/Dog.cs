@@ -43,7 +43,7 @@ namespace introOOP
             public int RUN()
         {
             Console.WriteLine("GO GO DOGO!");
-            RunSpeed -= 1;
+            //RunSpeed -= 1;
             return RunSpeed;
         }
            public void Bark()
